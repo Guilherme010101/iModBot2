@@ -64,6 +64,6 @@ Esta funcionalidade ainda está em desenvolvimento sendo que por agora ainda é 
     $ MicroXRCEAgent udp4 -p 2018
     ```
 Está tudo a postos para comecares a tua jornada com a realidade aumentada.
-Sempre que quiseres reabrir o container corre o script [start-docker-container](https://github.com/ipleiria-robotics/iModBot/blob/master/6_Realidade_Aumentada/iModBot-Docker/start-docker-container.bash).
+Sempre que quiseres reabrir o container corre o script [start-docker-container](https://github.com/Guilherme010101/iModBot2/blob/master/5_Augmented_Reality/iModBot-Docker/start-docker-container.bash).
 
 Video demostrativo: [https://youtu.be/DlAx3p5d99E](https://youtu.be/DlAx3p5d99E)
