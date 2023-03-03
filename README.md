@@ -123,7 +123,7 @@ Após ter o Arduino IDE e o ArduBlock instalados pode usufruir dos tutoriais dis
 
 **Documentação do ArduBlock**
 
-Os [4 níveis](https://github.com/ipleiria-robotics/iModBot/tree/master/1_Tutoriais/1-1_Tuturiais_para_ArduBlock) a baixo irão facilitar e guiar como deve de utilizar cada bloco e como criar um programa.
+Os [4 níveis](https://github.com/Guilherme010101/iModBot2/tree/master/1_Tutorials/1-1_ArduBlock_Tutorials) a baixo irão facilitar e guiar como deve de utilizar cada bloco e como criar um programa.
 
 - [Nivel Iniciante;](https://github.com/ipleiria-robotics/iModBot/blob/master/1_Tutoriais/1-1_Tuturiais_para_ArduBlock/Tutorial_1_-_Nivel%20iniciante/Nivel_iniciante.pdf)
 
