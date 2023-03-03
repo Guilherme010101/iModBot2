@@ -1,19 +1,19 @@
-# Realidade Aumentada
+# Augmented Reality
 
-Utilizando o motor de jogos Unity3d, ROS2 e a nossa biblioteca para o robô, cria o teu mundo virtual, projeta-o no mundo real e vê o robô a interagir com ele.
+Using the Unity3d game engine, ROS2 and our robot library, create your virtual world, project it into the real world and watch the robot interact with it.
 
-Esta funcionalidade ainda está em desenvolvimento sendo que por agora ainda é muito limitada.
+This functionality is still under development and for now it is still very limited.
 
-## Requisitos
+## Requirements
 
- - Ubuntu 20.04 (nativo ou Virtual)
- -- Consulta o documento [Tutorial_SetUp_VM](https://github.com/Guilherme010101/iModBot2/blob/master/5_Augmented_Reality/Tutorial_SetUp_VM.pdf) para o instalares numa Virtual Machine (é recomendado a instalação nativa).
+ - Ubuntu 20.04 (Native ou Virtual)
+ - Consult the document [Tutorial_SetUp_VM](https://github.com/Guilherme010101/iModBot2/blob/master/5_Augmented_Reality/Tutorial_SetUp_VM.pdf) to install it on a Virtual Machine (native installation is recommended).
  
-  - Docker  
- -- Consulta o documento [Tutorial_docker](https://github.com/Guilherme010101/iModBot2/blob/master/5_Augmented_Reality/Tutorial_docker.pdf) para o instalares e perceberes o seu funcionamento.
+ - Docker  
+ - Consult the document [Tutorial_docker](https://github.com/Guilherme010101/iModBot2/blob/master/5_Augmented_Reality/Tutorial_docker.pdf) to install it and understand how it works.
 
 
-## Utilização
+## Utilization
 
 1. Abre um terminal na pasta [iModBot-Docker](https://github.com/Guilherme010101/iModBot2/tree/master/5_Augmented_Reality/iModBot-Docker).
    
