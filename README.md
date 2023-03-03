@@ -143,7 +143,7 @@ Depois de já ter realizado os tutoriais do ArduBock deverá ter uma noção mel
 
 - [Tutorial 2 - Sensores;](https://github.com/Guilherme010101/iModBot2/tree/master/1_Tutorials/1-2_Arduino_IDE_Tutorials/Tutorial_2_-_Sensors)
 
-- [Tutorial 3 - Seguir trajeto.](https://github.com/ipleiria-robotics/iModBot/blob/master/1_Tutoriais/1-2_Tutoriais_para_Arduino_IDE/Tutorial_3_-_Seguir_trajeto/Tutorial_3_iModBot_-_Seguir%20trajeto.pdf)
+- [Tutorial 3 - Seguir trajeto.](https://github.com/Guilherme010101/iModBot2/tree/master/1_Tutorials/1-2_Arduino_IDE_Tutorials/Tutorial_3_-_Follow_Path)
 
 As atividades para cada tutorial estão disponíveis em [/2_Atividades/2-2_Atividades_para_Arduino_IDE/
 ](https://github.com/ipleiria-robotics/iModBot/tree/master/2_Atividades/2-2_Atividades_para_Arduino_IDE).
