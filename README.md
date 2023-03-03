@@ -146,7 +146,7 @@ Depois de já ter realizado os tutoriais do ArduBock deverá ter uma noção mel
 - [Tutorial 3 - Seguir trajeto.](https://github.com/Guilherme010101/iModBot2/tree/master/1_Tutorials/1-2_Arduino_IDE_Tutorials/Tutorial_3_-_Follow_Path)
 
 As atividades para cada tutorial estão disponíveis em [/2_Atividades/2-2_Atividades_para_Arduino_IDE/
-](https://github.com/ipleiria-robotics/iModBot/tree/master/2_Atividades/2-2_Atividades_para_Arduino_IDE).
+](https://github.com/Guilherme010101/iModBot2/tree/master/2_Activities/2-2_Arduino_IDE_Activities).
 
 
 # Editar o ArduBlock
