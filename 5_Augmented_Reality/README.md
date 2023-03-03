@@ -15,55 +15,55 @@ This functionality is still under development and for now it is still very limit
 
 ## Utilization
 
-1. Abre um terminal na pasta [iModBot-Docker](https://github.com/Guilherme010101/iModBot2/tree/master/5_Augmented_Reality/iModBot-Docker).
+1. Open a terminal in the folder [iModBot-Docker](https://github.com/Guilherme010101/iModBot2/tree/master/5_Augmented_Reality/iModBot-Docker).
    
-2. Cria a imagem Docker (este passo demora algum tempo).
+2. Create the Docker image (this step takes some time).
     ```bash
     $ ./build-docker-image.bash
     ```
-3. Inicia a imagem criada.
+3. Starts the created image.
     ```bash
     $ ./run-docker-container
     ```
-4.  Abre o `VScode`.
+4.  Open the `VScode`.
     ```bash
     $ code
     ```
-	  --  Instala a  extensão PlatformIO e abre a pasta [VScode_Workspace\ESP32-ROS2_iModBot](https://github.com/Guilherme010101/iModBot2/tree/master/5_Augmented_Reality/iModBot-Docker/VScode_Workspace/ESP32-ROS2_iModBot), coloca o id e a palavra pass da tua rede Wifi e o IP do container.
-	  -- Faz Upload do programa para o ESP32.
-	  -- Guarda as alterações e fecha o VScode.
+	  -  Install the PlatformIO extension and open the folder [VScode_Workspace\ESP32-ROS2_iModBot](https://github.com/Guilherme010101/iModBot2/tree/master/5_Augmented_Reality/iModBot-Docker/VScode_Workspace/ESP32-ROS2_iModBot), put the id and password of your Wifi network and the IP of the container.
+	  - Uploads the program to the ESP32.
+	  - Save changes and close VScode.
     
-5. Inicia o `Unity Hub` e instala o editor mais recente e abre o projeto que se encontra na pasta [iModBot-Docker\Unity_Workspace](https://github.com/Guilherme010101/iModBot2/tree/master/5_Augmented_Reality/iModBot-Docker/Unity_Workspace/iModBot-UnityRos2).
+5. Start the `Unity Hub` and install the latest editor and open the project found in the folder [iModBot-Docker\Unity_Workspace](https://github.com/Guilherme010101/iModBot2/tree/master/5_Augmented_Reality/iModBot-Docker/Unity_Workspace/iModBot-UnityRos2).
     ```bash
     $ cd unity && ./UnityHub.AppImage
     ```
-6.  Inicia o ROS2 Node.
-- No terminal da maquina nativa que se encontra na pasta iModBot-Docker abre um novo terminal no container.
+6.  Start the ROS2 Node.
+ - In the terminal of the native machine that is in the folder iModBot-Docker opens a new terminal in the container.
     ```bash
     $ ./new_bash_in_container
     ```
- - No novo terminal:
+ - In the new terminal:
     ```bash
     $ cd work/ROS2_Workspace && . install/setup.bash && ros2 run stop_oncollision oncollision
     ```
-7. Inicia o controlo remoto (pode ser acedido em qualquer browser desde que esteja na rede local, através do IP que aparece na janela).
-- Abre 2 novos terminais no container, como descrito anteriormente.
-- No 1º:
+7. Starts the remote control (it can be accessed in any browser as long as it is on the local network, through the IP that appears in the window).
+- Open 2 new terminals in the container, as described earlier.
+- On the 1st:
     ```bash
     $ cd ros2-web-bridge && export DEBUG=ros2-web-bridge:* && node bin/rosbridge.js
     ```
-- No 2º:
+- On the 2nd:
     ```bash
     $ cd ros2-web-bridge/demo && http-server -c-1
     ```
  
-8. Inicia o MicroXRCEAgent (responsável por estabelecer a comunicação entre o ROS2 e o ESP32) 
-- Abre um novo terminal no container.
-- Inicia o programa
+8. Start the MicroXRCEAgent (responsible for establishing communication between ROS2 and ESP32).
+- Opens a new terminal in the container.
+- Starts the program.
     ```bash
     $ MicroXRCEAgent udp4 -p 2018
     ```
-Está tudo a postos para comecares a tua jornada com a realidade aumentada.
-Sempre que quiseres reabrir o container corre o script [start-docker-container](https://github.com/Guilherme010101/iModBot2/blob/master/5_Augmented_Reality/iModBot-Docker/start-docker-container.bash).
+Everything is ready to start your journey with augmented reality.
+Whenever you want to reopen the container, run the script [start-docker-container](https://github.com/Guilherme010101/iModBot2/blob/master/5_Augmented_Reality/iModBot-Docker/start-docker-container.bash).
 
 Video demostrativo: [https://youtu.be/DlAx3p5d99E](https://youtu.be/DlAx3p5d99E)
