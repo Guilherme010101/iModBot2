@@ -15,7 +15,7 @@ Esta funcionalidade ainda está em desenvolvimento sendo que por agora ainda é 
 
 ## Utilização
 
-1. Abre um terminal na pasta [iModBot-Docker](https://github.com/ipleiria-robotics/iModBot/tree/master/6_Realidade_Aumentada/iModBot-Docker).
+1. Abre um terminal na pasta [iModBot-Docker](https://github.com/Guilherme010101/iModBot2/tree/master/5_Augmented_Reality/iModBot-Docker).
    
 2. Cria a imagem Docker (este passo demora algum tempo).
     ```bash
