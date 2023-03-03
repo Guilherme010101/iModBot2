@@ -111,7 +111,7 @@ Lista de material:
 **3º Passo do Projeto**
 
 Ler e seguir os tutoriais para configurar o Arduíno:
- - Configurar Arduíno IDE para o ESP32; ([3_Documentacao/3-1_Como_comunicar_com_o_ESP32.pdf](https://github.com/Guilherme010101/iModBot2/blob/master/3_Documents/3-04_Add_ESP32_Arduino_IDE.pdf))
+ - Configurar Arduíno IDE para o ESP32; ([3_Documents/3-04_Add_ESP32_Arduino_IDE.pdf](https://github.com/Guilherme010101/iModBot2/blob/master/3_Documents/3-04_Add_ESP32_Arduino_IDE.pdf))
 
  - Configurar ArduBlock no Arduíno IDE; ([3_Documentacao/3-2_Como_instalar_ArduBlock_no_Arduino_IDE.pdf](https://github.com/ipleiria-robotics/iModBot/blob/master/3_Documentacao/3-2_Como_instalar_ArduBlock_no_Arduino_IDE.pdf))
 
