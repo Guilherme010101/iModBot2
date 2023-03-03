@@ -66,4 +66,4 @@ This functionality is still under development and for now it is still very limit
 Everything is ready to start your journey with augmented reality.
 Whenever you want to reopen the container, run the script [start-docker-container](https://github.com/Guilherme010101/iModBot2/blob/master/5_Augmented_Reality/iModBot-Docker/start-docker-container.bash).
 
-Video demostrativo: [https://youtu.be/DlAx3p5d99E](https://youtu.be/DlAx3p5d99E)
+Demo video: [https://youtu.be/DlAx3p5d99E](https://youtu.be/DlAx3p5d99E)
