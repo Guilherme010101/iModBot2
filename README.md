@@ -26,7 +26,7 @@ Por fim irá obter um conjunto de pastas e ficheiros organizados da mesma maneir
 # Elaboração do Projeto
 **1º Passo do Projeto**
 
-Para montar o robô basta seguir o documento 4_Guia_de_montagem_offline ([3_Documentacao/3-4_Guia_de_montagem_offline.pdf](https://github.com/ipleiria-robotics/iModBot/blob/master/3_Documentacao/3-4_Guia_de_montagem_offline.pdf)) que mostra como montar ou então assistir o video [iModBot@ipleiria.pt guia de montagem](https://www.youtube.com/watch?v=i4wFh0GqzkM&feature=emb_logo). Este documento também inclui uma listagem de componentes
+Para montar o robô basta seguir o documento 4_Guia_de_montagem_offline ([3_Documentacao/3-4_Guia_de_montagem_offline.pdf](https://github.com/Guilherme010101/iModBot2/blob/master/3_Documents/3-03_iModBot_Offline_Assembly_Guide.pdf)) que mostra como montar ou então assistir o video [iModBot@ipleiria.pt guia de montagem](https://www.youtube.com/watch?v=i4wFh0GqzkM&feature=emb_logo). Este documento também inclui uma listagem de componentes
 que serão necessários para a sua montagem. Para perceber melhor o que faz cada componente do robô pode ler o manual técnico ([3_Documentacao/3-5_Manual_Tecnico_iModBot.pdf](https://github.com/ipleiria-robotics/iModBot/blob/master/3_Documentacao/3-5_Manual_Tecnico_iModBot.pdf)) que explica vários aspetos do robô. 
 
 Lista de material:
