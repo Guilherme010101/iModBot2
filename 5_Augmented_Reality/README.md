@@ -29,7 +29,7 @@ Esta funcionalidade ainda está em desenvolvimento sendo que por agora ainda é 
     ```bash
     $ code
     ```
-	  --  Instala a  extensão PlatformIO e abre a pasta [VScode_Workspace\ESP32-ROS2_iModBot](https://github.com/ipleiria-robotics/iModBot/tree/master/6_Realidade_Aumentada/iModBot-Docker/VScode_Workspace/ESP32-ROS2_iModBot), coloca o id e a palavra pass da tua rede Wifi e o IP do container.
+	  --  Instala a  extensão PlatformIO e abre a pasta [VScode_Workspace\ESP32-ROS2_iModBot](https://github.com/Guilherme010101/iModBot2/tree/master/5_Augmented_Reality/iModBot-Docker/VScode_Workspace/ESP32-ROS2_iModBot), coloca o id e a palavra pass da tua rede Wifi e o IP do container.
 	  -- Faz Upload do programa para o ESP32.
 	  -- Guarda as alterações e fecha o VScode.
     
