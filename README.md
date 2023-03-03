@@ -104,36 +104,36 @@ Material list:
 </p> 
        
 
-- Ficheiro java do ArduBlock ([4_Files/4-4_ArduBlock/ArduBlock_20220615.jar](https://github.com/Guilherme010101/iModBot2/blob/master/4_Files/4-4_ArduBlock/ArduBlock_20220615.jar)).
+- ArduBlock java file ([4_Files/4-4_ArduBlock/ArduBlock_20220615.jar](https://github.com/Guilherme010101/iModBot2/blob/master/4_Files/4-4_ArduBlock/ArduBlock_20220615.jar)).
 
 ![Anotação 2020-06-25 172512](https://user-images.githubusercontent.com/61513539/85759158-dfc3e480-b708-11ea-9878-04356b2ec291.png)
 
-**3º Passo do Projeto**
+**3rd Step of the Project**
 
-Ler e seguir os tutoriais para configurar o Arduíno:
- - Configurar Arduíno IDE para o ESP32; ([3_Documents/3-04_Add_ESP32_Arduino_IDE.pdf](https://github.com/Guilherme010101/iModBot2/blob/master/3_Documents/3-04_Add_ESP32_Arduino_IDE.pdf))
+Read and follow the tutorials to configure the Arduino:
+ - Configure Arduino IDE for ESP32; ([3_Documents/3-04_Add_ESP32_Arduino_IDE.pdf](https://github.com/Guilherme010101/iModBot2/blob/master/3_Documents/3-04_Add_ESP32_Arduino_IDE.pdf))
 
- - Configurar ArduBlock no Arduíno IDE; ([3_Documents/3-05_Add_ArduBlock_Arduino_IDE.pdf](https://github.com/Guilherme010101/iModBot2/blob/master/3_Documents/3-05_Add_ArduBlock_Arduino_IDE.pdf))
+ - Configure ArduBlock in Arduino IDE; ([3_Documents/3-05_Add_ArduBlock_Arduino_IDE.pdf](https://github.com/Guilherme010101/iModBot2/blob/master/3_Documents/3-05_Add_ArduBlock_Arduino_IDE.pdf))
 
- - Como instalar bibliotecas no Arduíno IDE. ([3_Documents/3-06_Add_Arduino_IDE_Libraries.pdf](https://github.com/Guilherme010101/iModBot2/blob/master/3_Documents/3-06_Add_Arduino_IDE_Libraries.pdf))
+ - How to install libraries in Arduino IDE. ([3_Documents/3-06_Add_Arduino_IDE_Libraries.pdf](https://github.com/Guilherme010101/iModBot2/blob/master/3_Documents/3-06_Add_Arduino_IDE_Libraries.pdf))
 
-# Documentação
+# Documentation
 
-Após ter o Arduino IDE e o ArduBlock instalados pode usufruir dos tutoriais disponibilizados. Estes tutoriais ensinam a trabalhar com o robô sendo os mesmos divididos em duas categorias: tutoriais para ArduBlock e tutoriais para Arduino IDE.
+After having the Arduino IDE and ArduBlock installed, you can take advantage of the available tutorials. These tutorials teach how to work with the robot and are divided into two categories: tutorials for ArduBlock and tutorials for Arduino IDE.
 
-**Documentação do ArduBlock**
+**ArduBlock documentation**
 
-Os [4 níveis](https://github.com/Guilherme010101/iModBot2/tree/master/1_Tutorials/1-1_ArduBlock_Tutorials) a baixo irão facilitar e guiar como deve de utilizar cada bloco e como criar um programa.
+The [4 levels](https://github.com/Guilherme010101/iModBot2/tree/master/1_Tutorials/1-1_ArduBlock_Tutorials) below will facilitate and guide how to use each block and how to create a program.
 
-- [Nivel Iniciante;](https://github.com/Guilherme010101/iModBot2/tree/master/1_Tutorials/1-1_ArduBlock_Tutorials/Tutorial_1_-_Begginer%20Level)
+- [Beginner level;](https://github.com/Guilherme010101/iModBot2/tree/master/1_Tutorials/1-1_ArduBlock_Tutorials/Tutorial_1_-_Begginer%20Level)
 
-- [Nivel Normal;](https://github.com/Guilherme010101/iModBot2/tree/master/1_Tutorials/1-1_ArduBlock_Tutorials/Tutorial_2_-_Normal_Level)
+- [Normal level;](https://github.com/Guilherme010101/iModBot2/tree/master/1_Tutorials/1-1_ArduBlock_Tutorials/Tutorial_2_-_Normal_Level)
 
-- [Nivel Médio;](https://github.com/Guilherme010101/iModBot2/tree/master/1_Tutorials/1-1_ArduBlock_Tutorials/Tutorial_3_-_Intermediate_Level)
+- [Middle level;](https://github.com/Guilherme010101/iModBot2/tree/master/1_Tutorials/1-1_ArduBlock_Tutorials/Tutorial_3_-_Intermediate_Level)
 
-- [Nivel Avançado;](https://github.com/Guilherme010101/iModBot2/tree/master/1_Tutorials/1-1_ArduBlock_Tutorials/Tutorial_4_-_Advanced_Level)
+- [Advanced level;](https://github.com/Guilherme010101/iModBot2/tree/master/1_Tutorials/1-1_ArduBlock_Tutorials/Tutorial_4_-_Advanced_Level)
 
-Existe um conjunto de atividades para cada nível. Após ler a documentação de um nível poderá realizar a atividade correspondente  ao mesmo em [2_Activities/2-1_ArduBlock_Activities/](https://github.com/Guilherme010101/iModBot2/tree/master/2_Activities/2-1_ArduBlock_Activities).
+There is a set of activities for each level. After reading the documentation of a level, you will be able to carry out the corresponding activity in [2_Activities/2-1_ArduBlock_Activities/](https://github.com/Guilherme010101/iModBot2/tree/master/2_Activities/2-1_ArduBlock_Activities).
 
 **Documentação do Arduino IDE**
 
