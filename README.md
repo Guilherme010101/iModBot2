@@ -151,7 +151,7 @@ As atividades para cada tutorial estão disponíveis em [/2_Atividades/2-2_Ativi
 
 # Editar o ArduBlock
 
-Caso tenha interesse em criar um bloco deve seguir os passos neste pasta [5.Ardublock](https://github.com/ipleiria-robotics/iModBot/blob/master/5_AduBlock/README.md)
+Caso tenha interesse em criar um bloco deve seguir os passos neste pasta [5.Ardublock](https://github.com/Guilherme010101/iModBot2/tree/master/4_Files/4-4_ArduBlock)
 
 # Realidade Aumentada
 
