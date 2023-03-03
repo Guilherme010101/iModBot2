@@ -115,7 +115,7 @@ Ler e seguir os tutoriais para configurar o Arduíno:
 
  - Configurar ArduBlock no Arduíno IDE; ([3_Documents/3-05_Add_ArduBlock_Arduino_IDE.pdf](https://github.com/Guilherme010101/iModBot2/blob/master/3_Documents/3-05_Add_ArduBlock_Arduino_IDE.pdf))
 
- - Como instalar bibliotecas no Arduíno IDE. ([3_Documentacao/3-3_Como_instalar_bibliotecas_no_Arduino_IDE.pdf](https://github.com/ipleiria-robotics/iModBot/blob/master/3_Documentacao/3-3_Como_instalar_bibliotecas_no_Arduino_IDE.pdf))
+ - Como instalar bibliotecas no Arduíno IDE. ([3_Documentacao/3-3_Como_instalar_bibliotecas_no_Arduino_IDE.pdf](https://github.com/Guilherme010101/iModBot2/blob/master/3_Documents/3-06_Add_Arduino_IDE_Libraries.pdf))
 
 # Documentação
 
