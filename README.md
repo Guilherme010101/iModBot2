@@ -1,6 +1,7 @@
 
 # Project Presentation 
-Este projeto iModBot consiste num robô modular de baixo custo que pode ser programado através de liguagem de programação por blocos e/ou através de linguagem C/C++. Este projeto dispõe de uma biblioteca para facilitar o controlo do robô. 
+This iModBot project consists of a low-cost modular robot that can be programmed using block programming language and/or C/C++ language.
+This project has a library to facilitate the control of the robot.
 
 A programação por blocos divide-se em 4 níveis, para facilitar a aprendizagem do utilizadores. Os níveis são os seguintes:
  - Nível Iniciante -> É possível colocar o robô a efetuar uma terefa com 1 a 2 blocos.
