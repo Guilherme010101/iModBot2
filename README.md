@@ -111,11 +111,11 @@ Material list:
 **3rd Step of the Project**
 
 Read and follow the tutorials to configure the Arduino:
- - Configure Arduino IDE for ESP32; ([3_Documents/3-04_Add_ESP32_Arduino_IDE.pdf](https://github.com/Guilherme010101/iModBot2/blob/master/3_Documents/3-04_Add_ESP32_Arduino_IDE.pdf))
+ - Configure Arduino IDE for ESP32; ([3_Documents/3-04_Add_ESP32_Arduino_IDE.pdf](https://github.com/Guilherme010101/iModBot2/blob/master/3_Documents/3-04_Add_ESP32_Arduino_IDE.pdf)).
 
- - Configure ArduBlock in Arduino IDE; ([3_Documents/3-05_Add_ArduBlock_Arduino_IDE.pdf](https://github.com/Guilherme010101/iModBot2/blob/master/3_Documents/3-05_Add_ArduBlock_Arduino_IDE.pdf))
+ - Configure ArduBlock in Arduino IDE; ([3_Documents/3-05_Add_ArduBlock_Arduino_IDE.pdf](https://github.com/Guilherme010101/iModBot2/blob/master/3_Documents/3-05_Add_ArduBlock_Arduino_IDE.pdf)).
 
- - How to install libraries in Arduino IDE. ([3_Documents/3-06_Add_Arduino_IDE_Libraries.pdf](https://github.com/Guilherme010101/iModBot2/blob/master/3_Documents/3-06_Add_Arduino_IDE_Libraries.pdf))
+ - How to install libraries in Arduino IDE. ([3_Documents/3-06_Add_Arduino_IDE_Libraries.pdf](https://github.com/Guilherme010101/iModBot2/blob/master/3_Documents/3-06_Add_Arduino_IDE_Libraries.pdf)).
 
 # Documentation
 
@@ -131,7 +131,7 @@ The [4 levels](https://github.com/Guilherme010101/iModBot2/tree/master/1_Tutoria
 
 - [Middle level;](https://github.com/Guilherme010101/iModBot2/tree/master/1_Tutorials/1-1_ArduBlock_Tutorials/Tutorial_3_-_Intermediate_Level)
 
-- [Advanced level;](https://github.com/Guilherme010101/iModBot2/tree/master/1_Tutorials/1-1_ArduBlock_Tutorials/Tutorial_4_-_Advanced_Level)
+- [Advanced level.](https://github.com/Guilherme010101/iModBot2/tree/master/1_Tutorials/1-1_ArduBlock_Tutorials/Tutorial_4_-_Advanced_Level)
 
 There is a set of activities for each level. After reading the documentation of a level, you will be able to carry out the corresponding activity in [2_Activities/2-1_ArduBlock_Activities/](https://github.com/Guilherme010101/iModBot2/tree/master/2_Activities/2-1_ArduBlock_Activities).
 
@@ -153,16 +153,16 @@ The activities for each tutorial are available at [2_Activities/2-2_Arduino_IDE_
 
 If you are interested in creating a block, you should follow the steps in this folder [4_Files/4-4_ArduBlock/](https://github.com/Guilherme010101/iModBot2/tree/master/4_Files/4-4_ArduBlock)
 
-# Realidade Aumentada
+# Augmented Reality
 
-Utilizando o motor de jogos Unity3d, ROS2 e a nossa biblioteca para o robô, cria o teu mundo virtual, projeta-o no mundo real e vê o robô a interagir com ele.
-Esta funcionalidade ainda está em desenvolvimento sendo que por agora ainda é muito limitada. 
+Using the Unity3d game engine, ROS2 and our robot library, create your virtual world, project it into the real world and watch the robot interact with it.
+This functionality is still under development and for now it is still very limited.
 
-# Controladores remotos
+# Remote controllers
 
-Com os controladores das consolas populares PS3 e PS4, consegue controlar o robot à distância via bluetooth. A biblioteca é fácil de instalar e apenas necessita de um programa, o Arduino IDE. Basta colocar valores desejados no código, tanto como sensibilidade de direção, aceleração dos motores, velocidade máxima, e muito mais!
+With the controllers for the popular consoles PS3 and PS4, you can control the robot remotely via bluetooth. The library is easy to install and only needs one program, the Arduino IDE. Simply input desired values into the code, such as steering sensitivity, motors acceleration, maximum speed, and much more!
 
-# Autores
+# Authors
  
 - Abel Teixeira   - estudante do [Politécnico de Leiria](https://www.ipleiria.pt/cursos/) do curso TeSP em Eletrónica e Redes de Telecomunicações, GitHub: [Ab-Tx](https://github.com/Ab-Tx)
 - Samuel Lourenço - estudante do [Politécnico de Leiria](https://www.ipleiria.pt/cursos/) do curso TeSP em Automação, Robótica e manutenção Industrial, GitHub: [SamueLourenc0](https://github.com/SamueLourenc0)
@@ -170,6 +170,6 @@ Com os controladores das consolas populares PS3 e PS4, consegue controlar o robo
 - Paulo Sousa - estudante do [Politécnico de Leiria](https://www.ipleiria.pt/cursos/) do curso TeSP em Eletrónica e Redes de Telecomunicações, GitHub [DimitriOnLSD](https://github.com/DimitriOnLSD)
 - Guilherme Dias - estudante do [Politécnico de Leiria](https://www.ipleiria.pt/cursos/) do curso TeSP em Automação, Robótica e Manutenção Industrial, GitHub [Guilherme010101](https://github.com/Guilherme010101)
 
-## Orientado por:
+## Guided by:
 - Luís Conde - [Politécnico de Leiria](https://www.ipleiria.pt), GitHub: [Luís Conde](https://github.com/conde-ISR-UC-PT)
 - Carlos Neves - [Politécnico de Leiria](https://www.ipleiria.pt), [INESC-Coimbra](http://inescc.estg.ipleiria.pt/), GitHub: [Carlos Neves](https://github.com/carlos-neves)
