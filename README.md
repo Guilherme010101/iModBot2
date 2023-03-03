@@ -97,8 +97,8 @@ Material list:
  
 - Library iModBot.rar ([4_Files/4-3_Libraries/iModBot.rar](https://github.com/Guilherme010101/iModBot2/blob/master/4_Files/4-3_Libraries/iModBot.rar)) and unzip the file. ![Anotação 2020-06-25 170046](https://user-images.githubusercontent.com/61513539/85755250-ae95e500-b705-11ea-9307-defe1aaa936e.png)
 
-- Software Arduino IDE na [pagina do Arduino](https://www.arduino.cc/en/main/software), instale a versão que se adequa ao seu equipamento, para windows recomendamos a opção "Windows installer, for windows 7 and up". 
- -- Tenha em atenção que os conteudos do projeto foram desenvolvidos e testados na versão Arduino IDE 1.8.12, os mesmos deverão continuar ser compatíveis com as versões mais recentes deste software.
+- Arduino IDE software on [pagina do Arduino](https://www.arduino.cc/en/main/software), install the version that suits your equipment, for windows we recommend the option "windows installer, for windows 7 and up". 
+ - Bear in mind that the project contents were developed and tested in the Arduino IDE 1.8.12 version, they should continue to be compatible with the most recent versions of this software.
        <p align="center">
   <img width="550" height="300" src="https://user-images.githubusercontent.com/61513539/85758812-91164a80-b708-11ea-947f-1db630270aee.png">
 </p> 
