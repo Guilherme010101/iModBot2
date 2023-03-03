@@ -33,7 +33,7 @@ Esta funcionalidade ainda está em desenvolvimento sendo que por agora ainda é 
 	  -- Faz Upload do programa para o ESP32.
 	  -- Guarda as alterações e fecha o VScode.
     
-5. Inicia o `Unity Hub` e instala o editor mais recente e abre o projeto que se encontra na pasta [iModBot-Docker\Unity_Workspace](https://github.com/ipleiria-robotics/iModBot/tree/master/6_Realidade_Aumentada/iModBot-Docker/Unity_Workspace/).
+5. Inicia o `Unity Hub` e instala o editor mais recente e abre o projeto que se encontra na pasta [iModBot-Docker\Unity_Workspace](https://github.com/Guilherme010101/iModBot2/tree/master/5_Augmented_Reality/iModBot-Docker/Unity_Workspace/iModBot-UnityRos2).
     ```bash
     $ cd unity && ./UnityHub.AppImage
     ```
