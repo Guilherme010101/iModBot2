@@ -129,7 +129,7 @@ Os [4 níveis](https://github.com/Guilherme010101/iModBot2/tree/master/1_Tutoria
 
 - [Nivel Normal;](https://github.com/Guilherme010101/iModBot2/tree/master/1_Tutorials/1-1_ArduBlock_Tutorials/Tutorial_2_-_Normal_Level)
 
-- [Nivel Médio;](https://github.com/ipleiria-robotics/iModBot/blob/master/1_Tutoriais/1-1_Tuturiais_para_ArduBlock/Tutorial_3_-_Nivel_Medio/Nivel_Medio.pdf)
+- [Nivel Médio;](https://github.com/Guilherme010101/iModBot2/tree/master/1_Tutorials/1-1_ArduBlock_Tutorials/Tutorial_3_-_Intermediate_Level)
 
 - [Nivel Avançado;](https://github.com/ipleiria-robotics/iModBot/blob/master/1_Tutoriais/1-1_Tuturiais_para_ArduBlock/Tutorial_4_-_Nivel_Avancado/Nivel_Avancado.pdf)
 
