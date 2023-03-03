@@ -149,9 +149,9 @@ The activities for each tutorial are available at [2_Activities/2-2_Arduino_IDE_
 ](https://github.com/Guilherme010101/iModBot2/tree/master/2_Activities/2-2_Arduino_IDE_Activities).
 
 
-# Editar o ArduBlock
+# Edit the ArduBlock
 
-Caso tenha interesse em criar um bloco deve seguir os passos neste pasta [4_Files/4-4_ArduBlock/](https://github.com/Guilherme010101/iModBot2/tree/master/4_Files/4-4_ArduBlock)
+If you are interested in creating a block, you should follow the steps in this folder [4_Files/4-4_ArduBlock/](https://github.com/Guilherme010101/iModBot2/tree/master/4_Files/4-4_ArduBlock)
 
 # Realidade Aumentada
 
