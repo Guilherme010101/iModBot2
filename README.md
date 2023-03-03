@@ -3,11 +3,11 @@
 This iModBot project consists of a low-cost modular robot that can be programmed using block programming language and/or C/C++ language.
 This project has a library to facilitate the control of the robot.
 
-A programação por blocos divide-se em 4 níveis, para facilitar a aprendizagem do utilizadores. Os níveis são os seguintes:
- - Nível Iniciante -> É possível colocar o robô a efetuar uma terefa com 1 a 2 blocos.
- - Nível Normal -> O utilizador tem mais controlo sob o movimento do robô, dispõe apenas da função loop.
- - Nível Médio -> O utilizador pode agora colocar blocos na função Setup e Loop.
- - Nível Avançado -> O utilizador dispõe de todas as funções da biblioteca e necessita de configurar todos os aspetos do robô.
+Block programming is divided into 4 levels to facilitate user learning. The levels are as follows:
+ - Beginner level -> It is possible to have the robot perform a task with 1 to 2 blocks.
+ - Normal level -> The user has more control over the movement of the robot, he only has the loop function.
+ - Middle level -> The user can now place blocks in the Setup and Loop function.
+ - Advanced level -> The user has all the functions of the library and needs to configure all aspects of the robot.
     
 ![ROBOT](https://user-images.githubusercontent.com/61513539/82364254-f0e14d80-9a06-11ea-9d6f-fb408e07dd22.jpg)
 
