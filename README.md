@@ -135,17 +135,17 @@ The [4 levels](https://github.com/Guilherme010101/iModBot2/tree/master/1_Tutoria
 
 There is a set of activities for each level. After reading the documentation of a level, you will be able to carry out the corresponding activity in [2_Activities/2-1_ArduBlock_Activities/](https://github.com/Guilherme010101/iModBot2/tree/master/2_Activities/2-1_ArduBlock_Activities).
 
-**Documentação do Arduino IDE**
+**Arduino IDE documentation**
 
-Depois de já ter realizado os tutoriais do ArduBock deverá ter uma noção melhor de como programar no Arduino IDE. Também elaboramos alguns tutoriais e atividades para facilitar a aprendizagem,
+After having done the ArduBock tutorials, you should have a better idea of ​​how to program in the Arduino IDE. We've also designed some tutorials and activities to make learning easier.
 
-- [Tutorial 1 - Movimento;](https://github.com/Guilherme010101/iModBot2/tree/master/1_Tutorials/1-2_Arduino_IDE_Tutorials/Tutorial_1_-_Movement)
+- [Tutorial 1 - Movement;](https://github.com/Guilherme010101/iModBot2/tree/master/1_Tutorials/1-2_Arduino_IDE_Tutorials/Tutorial_1_-_Movement)
 
-- [Tutorial 2 - Sensores;](https://github.com/Guilherme010101/iModBot2/tree/master/1_Tutorials/1-2_Arduino_IDE_Tutorials/Tutorial_2_-_Sensors)
+- [Tutorial 2 - Sensors;](https://github.com/Guilherme010101/iModBot2/tree/master/1_Tutorials/1-2_Arduino_IDE_Tutorials/Tutorial_2_-_Sensors)
 
-- [Tutorial 3 - Seguir trajeto.](https://github.com/Guilherme010101/iModBot2/tree/master/1_Tutorials/1-2_Arduino_IDE_Tutorials/Tutorial_3_-_Follow_Path)
+- [Tutorial 3 - Follow path.](https://github.com/Guilherme010101/iModBot2/tree/master/1_Tutorials/1-2_Arduino_IDE_Tutorials/Tutorial_3_-_Follow_Path)
 
-As atividades para cada tutorial estão disponíveis em [2_Activities/2-2_Arduino_IDE_Activities/
+The activities for each tutorial are available at [2_Activities/2-2_Arduino_IDE_Activities/
 ](https://github.com/Guilherme010101/iModBot2/tree/master/2_Activities/2-2_Arduino_IDE_Activities).
 
 
