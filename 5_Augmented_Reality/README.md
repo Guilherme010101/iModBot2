@@ -10,7 +10,7 @@ Esta funcionalidade ainda está em desenvolvimento sendo que por agora ainda é 
  -- Consulta o documento [Tutorial_SetUp_VM](https://github.com/Guilherme010101/iModBot2/blob/master/5_Augmented_Reality/Tutorial_SetUp_VM.pdf) para o instalares numa Virtual Machine (é recomendado a instalação nativa).
  
   - Docker  
- -- Consulta o documento [Tutorial_docker](https://github.com/ipleiria-robotics/iModBot/blob/master/6_Realidade_Aumentada/Tutorial_docker.pdf) para o instalares e perceberes o seu funcionamento.
+ -- Consulta o documento [Tutorial_docker](https://github.com/Guilherme010101/iModBot2/blob/master/5_Augmented_Reality/Tutorial_docker.pdf) para o instalares e perceberes o seu funcionamento.
 
 
 ## Utilização
