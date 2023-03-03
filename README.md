@@ -11,26 +11,25 @@ Block programming is divided into 4 levels to facilitate user learning. The leve
     
 ![ROBOT](https://user-images.githubusercontent.com/61513539/82364254-f0e14d80-9a06-11ea-9d6f-fb408e07dd22.jpg)
 
-# Como transferir ficheiros do GitHub
-No GitHub não é possível transferir qualquer ficheiro individualmente. É recomendado transferir todas as pastas e ficheiros presentes neste projeto. Para tal siga as instruções abaixo:
+# How to transfer files from GitHub
+On GitHub it's not possible to upload any file individually. It's recommended to transfer all folders and files present in this project. To do so, follow the instructions below:
 
-Comece por transferir todos os ficheiros no formato .zip
+Start by downloading all files in .zip format.
 ![](https://user-images.githubusercontent.com/60508542/85849029-1b5ebd00-b7a2-11ea-8346-0e61bc6c73ff.png)
 
-Abra a localização do ficheiro .zip transferido e use um programa para extrair os conteudos
+Open the location of the downloaded .zip file and use a program to extract the contents.
 ![](https://user-images.githubusercontent.com/60508542/85849135-506b0f80-b7a2-11ea-86b6-15204e42a5db.png)
 
-Por fim irá obter um conjunto de pastas e ficheiros organizados da mesma maneira que se encontram neste repositório.
+Finally you'll get a set of folders and files organized in the same way as they are in this repository.
 
 ![](https://user-images.githubusercontent.com/60508542/85849176-61b41c00-b7a2-11ea-9cf0-36eb9aabff0b.png)
 
-# Elaboração do Projeto
-**1º Passo do Projeto**
+# Project Elaboration
+**1st Step of the Project**
 
-Para montar o robô basta seguir o documento 4_Guia_de_montagem_offline ([3-03_iModBot_Offline_Assembly_Guide.pdf](https://github.com/Guilherme010101/iModBot2/blob/master/3_Documents/3-03_iModBot_Offline_Assembly_Guide.pdf)) que mostra como montar ou então assistir o video [iModBot@ipleiria.pt guia de montagem](https://www.youtube.com/watch?v=i4wFh0GqzkM&feature=emb_logo). Este documento também inclui uma listagem de componentes
-que serão necessários para a sua montagem. Para perceber melhor o que faz cada componente do robô pode ler o manual técnico ([3-01_iModBot_Tech_Manual.pdf](https://github.com/Guilherme010101/iModBot2/blob/master/3_Documents/3-01_iModBot_Tech_Manual.pdf)) que explica vários aspetos do robô. 
+To assemble the robot just follow the document 3-03_iModBot_Offline_Assembly_Guide ([3-03_iModBot_Offline_Assembly_Guide.pdf](https://github.com/Guilherme010101/iModBot2/blob/master/3_Documents/3-03_iModBot_Offline_Assembly_Guide.pdf)) that shows how to assemble or watch the video [iModBot@ipleiria.pt guia de montagem](https://www.youtube.com/watch?v=i4wFh0GqzkM&feature=emb_logo). This document also includes a listing of components that will be needed for its assembly. To better understand what each component of the robot does, you can read the technical manual ([3-01_iModBot_Tech_Manual.pdf](https://github.com/Guilherme010101/iModBot2/blob/master/3_Documents/3-01_iModBot_Tech_Manual.pdf)) which explains various aspects of the robot.
 
-Lista de material:
+Material list:
  * ESP32 wroom32 devkit ; 
  <p align="center">
   <img width="600" height="300" src="https://user-images.githubusercontent.com/60508542/85723725-6ec20400-b6eb-11ea-908e-e79d1794d0ee.png">
@@ -92,11 +91,11 @@ Lista de material:
 </p> 
  
  
-**2º Passo do Projeto** 
+**2nd Step of the Project** 
  
  Downloads:
  
-- Biblioteca iModBot.zip ([4_Files/4-3_Libraries/iModBot.rar](https://github.com/Guilherme010101/iModBot2/blob/master/4_Files/4-3_Libraries/iModBot.rar)) e descompacta o ficheiro. ![Anotação 2020-06-25 170046](https://user-images.githubusercontent.com/61513539/85755250-ae95e500-b705-11ea-9307-defe1aaa936e.png)
+- Library iModBot.rar ([4_Files/4-3_Libraries/iModBot.rar](https://github.com/Guilherme010101/iModBot2/blob/master/4_Files/4-3_Libraries/iModBot.rar)) and unzip the file. ![Anotação 2020-06-25 170046](https://user-images.githubusercontent.com/61513539/85755250-ae95e500-b705-11ea-9307-defe1aaa936e.png)
 
 - Software Arduino IDE na [pagina do Arduino](https://www.arduino.cc/en/main/software), instale a versão que se adequa ao seu equipamento, para windows recomendamos a opção "Windows installer, for windows 7 and up". 
  -- Tenha em atenção que os conteudos do projeto foram desenvolvidos e testados na versão Arduino IDE 1.8.12, os mesmos deverão continuar ser compatíveis com as versões mais recentes deste software.
