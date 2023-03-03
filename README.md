@@ -151,7 +151,7 @@ The activities for each tutorial are available at [2_Activities/2-2_Arduino_IDE_
 
 # Edit the ArduBlock
 
-If you are interested in creating a block, you should follow the steps in this folder [4_Files/4-4_ArduBlock/](https://github.com/Guilherme010101/iModBot2/tree/master/4_Files/4-4_ArduBlock)
+If you are interested in creating a block, you should follow the steps in this folder [4_Files/4-4_ArduBlock/](https://github.com/Guilherme010101/iModBot2/tree/master/4_Files/4-4_ArduBlock).
 
 # Augmented Reality
 
@@ -164,12 +164,12 @@ With the controllers for the popular consoles PS3 and PS4, you can control the r
 
 # Authors
  
-- Abel Teixeira   - estudante do [Politécnico de Leiria](https://www.ipleiria.pt/cursos/) do curso TeSP em Eletrónica e Redes de Telecomunicações, GitHub: [Ab-Tx](https://github.com/Ab-Tx)
-- Samuel Lourenço - estudante do [Politécnico de Leiria](https://www.ipleiria.pt/cursos/) do curso TeSP em Automação, Robótica e manutenção Industrial, GitHub: [SamueLourenc0](https://github.com/SamueLourenc0)
-- Nelson Henriques - estudante do [Politécnico de Leiria](https://www.ipleiria.pt/cursos/) do curso TeSP em Automação, Robótica e manutenção Industrial, GitHub: [NetchoExtreme](https://github.com/NetchoExtreme)
-- Paulo Sousa - estudante do [Politécnico de Leiria](https://www.ipleiria.pt/cursos/) do curso TeSP em Eletrónica e Redes de Telecomunicações, GitHub [DimitriOnLSD](https://github.com/DimitriOnLSD)
-- Guilherme Dias - estudante do [Politécnico de Leiria](https://www.ipleiria.pt/cursos/) do curso TeSP em Automação, Robótica e Manutenção Industrial, GitHub [Guilherme010101](https://github.com/Guilherme010101)
+- Abel Teixeira   - student at [Polytechnic of Leiria](https://www.ipleiria.pt/cursos/) of the TeSP course in Electronics and Telecommunications Networks, GitHub: [Ab-Tx](https://github.com/Ab-Tx)
+- Samuel Lourenço - student at [Polytechnic of Leiria](https://www.ipleiria.pt/cursos/) of the TeSP course in Automation, Robotics and Industrial Maintenance, GitHub: [SamueLourenc0](https://github.com/SamueLourenc0)
+- Nelson Henriques - student at [Polytechnic of Leiria](https://www.ipleiria.pt/cursos/) of the TeSP course in Automation, Robotics and Industrial Maintenance, GitHub: [NetchoExtreme](https://github.com/NetchoExtreme)
+- Paulo Sousa - student at [Polytechnic of Leiria](https://www.ipleiria.pt/cursos/) of the TeSP course in Electronics and Telecommunications Networks, GitHub [DimitriOnLSD](https://github.com/DimitriOnLSD)
+- Guilherme Dias - student at [Polytechnic of Leiria](https://www.ipleiria.pt/cursos/) of the TeSP course in Automation, Robotics and Industrial Maintenance, GitHub [Guilherme010101](https://github.com/Guilherme010101)
 
 ## Guided by:
-- Luís Conde - [Politécnico de Leiria](https://www.ipleiria.pt), GitHub: [Luís Conde](https://github.com/conde-ISR-UC-PT)
-- Carlos Neves - [Politécnico de Leiria](https://www.ipleiria.pt), [INESC-Coimbra](http://inescc.estg.ipleiria.pt/), GitHub: [Carlos Neves](https://github.com/carlos-neves)
+- Luís Conde - [Polytechnic of Leiria](https://www.ipleiria.pt), GitHub: [Luís Conde](https://github.com/conde-ISR-UC-PT)
+- Carlos Neves - [Polytechnic of Leiria](https://www.ipleiria.pt), [INESC-Coimbra](http://inescc.estg.ipleiria.pt/), GitHub: [Carlos Neves](https://github.com/carlos-neves)
