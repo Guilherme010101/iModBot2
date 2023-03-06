@@ -1,6 +1,6 @@
 # Modify ArduBlock using Eclipse IDE
 
-Before any attempt on downloading any programs, please begin by opening [this file](https://github.com/DimitriOnLSD/iModBot/blob/master/3_Documents/3-7_Edit_ArduBlock_Files.pdf) which will help you install the necessary tools.
+Before any attempt on downloading any programs, please begin by opening [this file](https://github.com/Guilherme010101/iModBot2/blob/master/3_Documents/3-07_Edit_ArduBlock_Files.pdf) which will help you install the necessary tools.
 
 ![eclipse](https://user-images.githubusercontent.com/61513539/83086288-401e2280-a086-11ea-8431-a3570433ade1.png)
 
