@@ -16,7 +16,7 @@ __Note:__ Before downloading any software, please check that your system specifi
 
 ## Build/edit blocks
 
-After you finish installing the necessary programs and successfully run and configure the Eclipse IDE, open [this file](https://github.com/DimitriOnLSD/iModBot/blob/master/3_Documents/3-8_Create_ArduBlock_Blocks.pdf) to help you start creating your first block!
+After you finish installing the necessary programs and successfully run and configure the Eclipse IDE, open [this file](https://github.com/Guilherme010101/iModBot2/blob/master/3_Documents/3-08_Create_ArduBlock_Blocks.pdf) to help you start creating your first block!
 
 [YouTube video](https://www.youtube.com/watch?v=zwJaZi3XqS4) teaching how to build a block.
 
