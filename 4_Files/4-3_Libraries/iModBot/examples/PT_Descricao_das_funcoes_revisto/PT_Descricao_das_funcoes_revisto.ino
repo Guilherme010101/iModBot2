@@ -24,7 +24,7 @@ void setup()
       Na altura em que este exemplo foi criado foi usada uma placa com o CI L293D, e os nomes dos pinos da mesma eram IN1, IN2, IN3, IN4.
   */
   //                (IN1,IN2,IN3, IN4)
-  robot.editMotorPin( 2 , 4 , 16, 17 ); // Estes são os pinos que a biblioteca usa por defeito.
+  robot.editMotorPin( 4 , 16 , 17, 18 ); // Estes são os pinos que a biblioteca usa por defeito.
 
   //  - - - - - - - - - - - - -
 
