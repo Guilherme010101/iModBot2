@@ -30,7 +30,7 @@ void loop()
   }
   
   else if ((robot.readS1() == 0) && (robot.readS2() == 1) && (robot.readS3() == 1) && (robot.readS4() == 1) && (robot.readS5() == 1))
-  {+
+  {
     robot.rotateLeft(110);
     while ((robot.readS1() == 0) && (robot.readS2() == 1) && (robot.readS3() == 1) && (robot.readS4() == 1) && (robot.readS5() == 1))
     {
