@@ -16,6 +16,9 @@ Features an inside battery stacking with no middle layer. Simple use and faster 
 `Battery_Holder_Slot.skp`
 Features an inside battery stacking with removable middle layer.
 
+`Infrared_Sensor_Piece.stl`
+3D printable piece to allow the sensor to work properly.
+
 __Others__
 
 `motors_side_support_v3.stl`
@@ -23,7 +26,7 @@ __Others__
 
 ## Information
 
-This folder contains all cases used in iModBot for the batteries. All outter holes dimensions are specifically designed for the iModBot chassis alone. 
+This folder contains all cases used in iModBot for the batteries and the ifrared sensor. All outter holes dimensions are specifically designed for the iModBot chassis alone. 
 
 Sterolithography files (STL) can be opened directly with CURA software for 3D printing. 
 
