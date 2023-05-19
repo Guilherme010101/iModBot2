@@ -4,8 +4,8 @@ iModBot robot;
 void setup()
  
 {
-  robot.begin();
   Serial.begin(115200);
+  robot.begin();
 }
 
 void loop() 
