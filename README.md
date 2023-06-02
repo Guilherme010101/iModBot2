@@ -75,11 +75,6 @@ Material list:
   <img width="600" height="300" src="https://user-images.githubusercontent.com/60508542/85723808-81d4d400-b6eb-11ea-81da-f25455cd2255.png">
 </p> 
 
- * 2x Breadboard 400 ; 
- <p align="center">
-  <img width="600" height="300" src="https://user-images.githubusercontent.com/60508542/85723875-92854a00-b6eb-11ea-9e6c-e71d3e19aa65.png">
-</p> 
-
  * Jumper wire male male, Jumper wire male female ; 
  <p align="center">
   <img width="600" height="300" src="https://user-images.githubusercontent.com/60508542/85724007-b34d9f80-b6eb-11ea-9909-54d1adc4b83c.png">
