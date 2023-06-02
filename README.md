@@ -32,7 +32,7 @@ To assemble the robot just follow the document 3-03_iModBot_Offline_Assembly_Gui
 Material list:
  * ESP32 wroom32 devkit ; 
  <p align="center">
-  <img width="600" height="300" src="https://user-images.githubusercontent.com/60508542/85723725-6ec20400-b6eb-11ea-908e-e79d1794d0ee.png">
+  <src="https://www.botnroll.com/17155-home_default/esp32-devkitc-32e-placa-de-desenvolvimento-espressif.jpg">
 </p>
 
  * l293d 4 channel module ;
