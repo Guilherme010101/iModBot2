@@ -65,11 +65,6 @@ Material list:
   <img width="600" height="300" src="https://user-images.githubusercontent.com/60508542/85724148-d5472200-b6eb-11ea-8c86-d48509ba7451.png">
 </p> 
 
- * MT3608 ; 
- <p align="center">
-  <img width="600" height="300" src="https://user-images.githubusercontent.com/60508542/85726065-a5008300-b6ed-11ea-98b0-1c33093c3eb8.png">
-</p> 
-
  * li-ion rechargable battery 2500 mAh ; 
  <p align="center">
   <img width="600" height="300" src="https://user-images.githubusercontent.com/60508542/85723808-81d4d400-b6eb-11ea-81da-f25455cd2255.png">
