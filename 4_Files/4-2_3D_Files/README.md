@@ -21,6 +21,7 @@ Features an inside battery stacking with removable middle layer.
 
 `Infrared_Sensor_Piece_Thicker_Filament.stl`
 3D printable piece to allow the sensor to work properly. Should be used if the filament used to print the piece is thicker than normal.
+
 __Others__
 
 `motors_side_support_v3.stl`
