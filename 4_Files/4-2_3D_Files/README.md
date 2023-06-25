@@ -33,4 +33,4 @@ This folder contains all cases used in iModBot for the batteries and the ifrared
 
 Sterolithography files (STL) can be opened directly with CURA software for 3D printing. 
 
-SketchUp (SKP), Fusion 360 (F3D) and Standard for the Exchange of Product Data (STEP) files are the given open-source files. SkethUp files were saved with 2021 version.
+SketchUp (SKP), Fusion 360 (F3D), Standard for the Exchange of Product Data (STEP) and Autodesk Inventor Part files are the given open-source files. SkethUp files were saved with 2021 version.
