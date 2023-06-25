@@ -16,6 +16,9 @@ Features an inside battery stacking with no middle layer. Simple use and faster 
 `Battery_Holder_Slot.skp`
 Features an inside battery stacking with removable middle layer.
 
+`Battery_Holder_Under_Robot`
+Features the most recent version of the double batterry case that's under the iModBot chassis.
+
 `Infrared_Sensor_Piece.stl`
 3D printable piece to allow the sensor to work properly.
 
